@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [Diskapplikasjon](https://diskgolfwebapplikasjon-29c804bfcd0b.herokuapp.com/), lager en webapplikasjon for       
+  spillere og klubber ved bruk av MERN-stacken. 
 - 🌱 I’m currently learning
 
 <!--
