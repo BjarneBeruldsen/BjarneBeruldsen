@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Diskapplikasjon](https://diskgolfwebapplikasjon-29c804bfcd0b.herokuapp.com/). Lager en webapplikasjon for       
-      spillere og klubber ved bruk av MERN-stacken. Sjekk ut repoet [her](https://github.com/BjarneBeruldsen/DiskGolfWebapplikasjon)
-- 🌱 I’m currently learning Java, React, MongoDB, Express, Node.js
 
 <!--
 **BjarneBeruldsen/BjarneBeruldsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
